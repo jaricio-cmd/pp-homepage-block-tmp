@@ -1,0 +1,191 @@
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+/* Book brand: Playfair Display for headings, smooth anchor scroll */
+#rawhtml-14e3681d h1,#rawhtml-14e3681d h2,#rawhtml-14e3681d h3{font-family:'Playfair Display',Georgia,serif;}
+html{scroll-behavior:smooth;}
+</style>
+<div style="font-family:'Montserrat',Helvetica,Arial,sans-serif;color:#2E2A26;background:#FAF6EF;">
+<div id="pp-hero" class="pp-reveal" style="background:#2E2A26;color:#FAF6EF;text-align:center;padding:80px 24px;">
+<h1 style="font-size:44px;line-height:1.2;margin:0 0 20px;color:#FAF6EF;">Stop searching for your purpose.<br>Start practicing it.</h1>
+<p style="font-size:19px;line-height:1.6;max-width:640px;margin:0 auto 32px;opacity:.92;">Practicing Purpose is for people who've spent years living someone else's script — and are ready to write their own next chapter, one deliberate practice at a time.</p>
+<a href="https://www.thepracticingpurpose.com/quiz" style="display:inline-block;background:#C9A24B;color:#2E2A26;font-size:19px;font-weight:bold;padding:16px 40px;border-radius:8px;text-decoration:none;">Take the Purpose Finder Quiz</a>
+<p style="font-size:14px;margin:20px 0 0;opacity:.75;">10 questions. Your archetype. A 7-day practice to begin.</p>
+</div>
+<div class="pp-reveal" style="max-width:720px;margin:0 auto;padding:64px 24px;">
+<h2 style="font-size:32px;text-align:center;margin:0 0 32px;">This is for you if…</h2>
+<p style="font-size:18px;line-height:1.7;margin:0 0 16px;"><span style="color:#B0715A;font-weight:bold;">✓</span> You've done everything 'right' and still feel like something's missing.</p>
+<p style="font-size:18px;line-height:1.7;margin:0 0 16px;"><span style="color:#B0715A;font-weight:bold;">✓</span> You're tired of inspirational quotes that change nothing once real life kicks in.</p>
+<p style="font-size:18px;line-height:1.7;margin:0 0 16px;"><span style="color:#B0715A;font-weight:bold;">✓</span> You suspect your purpose isn't something to find — it's something to do.</p>
+<p style="font-size:18px;line-height:1.7;margin:0;"><span style="color:#B0715A;font-weight:bold;">✓</span> You're ready to release an older version of yourself that no longer fits.</p>
+</div>
+<div class="pp-reveal" style="background:#FAF6EF;padding:64px 24px;text-align:center;">
+<h2 style="font-size:32px;margin:0 0 16px;">Purpose becomes clearer when you practice it</h2>
+<p style="font-size:18px;line-height:1.7;max-width:640px;margin:0 auto 40px;">You do not need a perfect plan or one life-changing answer. You need an honest starting point, a little self-recognition, and one small action you can repeat.</p>
+<div style="display:flex;flex-wrap:wrap;gap:32px;justify-content:center;max-width:960px;margin:0 auto;text-align:left;">
+<div style="flex:1 1 220px;max-width:280px;"><p style="font-size:20px;font-weight:bold;color:#B0715A;margin:0 0 12px;">01 — Take the quiz</p><p style="font-size:17px;line-height:1.6;margin:0;">Answer 10 honest questions about what energizes you, what drains you, and when you feel most like yourself.</p></div>
+<div style="flex:1 1 220px;max-width:280px;"><p style="font-size:20px;font-weight:bold;color:#B0715A;margin:0 0 12px;">02 — Meet your archetype</p><p style="font-size:17px;line-height:1.6;margin:0;">Discover whether you naturally practice purpose as a Creator, Guide, Builder, Advocate, or Seeker — and see the old pattern that may be holding you back.</p></div>
+<div style="flex:1 1 220px;max-width:280px;"><p style="font-size:20px;font-weight:bold;color:#B0715A;margin:0 0 12px;">03 — Start your 7-day practice</p><p style="font-size:17px;line-height:1.6;margin:0;">Take one small action built for your archetype. Ten minutes a day. No dramatic reinvention — just a real place to begin.</p></div>
+</div>
+<a href="https://www.thepracticingpurpose.com/quiz" style="display:inline-block;background:#C9A24B;color:#2E2A26;font-size:19px;font-weight:bold;padding:16px 40px;border-radius:8px;text-decoration:none;margin-top:40px;">Find my starting point</a>
+<p style="font-size:14px;margin:16px 0 0;opacity:.75;">10 questions. About 2 minutes. Free.</p>
+</div>
+<div class="pp-reveal" style="background:#2E2A26;padding:64px 24px;text-align:center;">
+<h2 style="font-size:32px;margin:0 0 12px;color:#FAF6EF;">Five ways purpose can come alive through you</h2>
+<p style="font-size:18px;color:#FAF6EF;opacity:.9;margin:0 auto 40px;max-width:640px;">Your archetype is not a box or a verdict. It is a starting point — the pattern that feels most natural when you are living with intention.</p>
+<div style="display:flex;flex-wrap:wrap;gap:24px;justify-content:center;max-width:1000px;margin:0 auto;">
+<div class="pp-card" tabindex="0" role="button" aria-label="Creator card. Activate to reveal the old pattern.">
+<div class="pp-card-inner">
+<div class="pp-face pp-front">
+<img src="https://d1yei2z3i6k35z.cloudfront.net/19053868/6abc4f9aae06d1.79338989_creator.jpg" alt="Creator" style="width:100%;height:220px;object-fit:cover;display:block;">
+<div style="padding:24px;"><h3 style="font-size:22px;margin:0 0 8px;color:#2E2A26;">Creator</h3><p style="font-size:16px;line-height:1.6;margin:0;color:#2E2A26;">Make something only you can make.</p></div>
+</div>
+<div class="pp-face pp-back">
+<h3 style="font-size:20px;margin:0 0 12px;color:#FAF6EF;">The old pattern</h3>
+<p style="font-size:16px;line-height:1.65;margin:0;color:#FAF6EF;opacity:.94;">The critic — the voice that said it had to be perfect before it could begin.</p>
+</div>
+</div>
+</div>
+<div class="pp-card" tabindex="0" role="button" aria-label="Guide card. Activate to reveal the old pattern.">
+<div class="pp-card-inner">
+<div class="pp-face pp-front">
+<img src="https://d1yei2z3i6k35z.cloudfront.net/19053868/6abc4fa956f602.46448185_guide.jpg" alt="Guide" style="width:100%;height:220px;object-fit:cover;object-position:top center;display:block;">
+<div style="padding:24px;"><h3 style="font-size:22px;margin:0 0 8px;color:#2E2A26;">Guide</h3><p style="font-size:16px;line-height:1.6;margin:0;color:#2E2A26;">Help someone see the way forward.</p></div>
+</div>
+<div class="pp-face pp-back">
+<h3 style="font-size:20px;margin:0 0 12px;color:#FAF6EF;">The old pattern</h3>
+<p style="font-size:16px;line-height:1.65;margin:0;color:#FAF6EF;opacity:.94;">The martyr — the habit of carrying everyone else while disappearing yourself.</p>
+</div>
+</div>
+</div>
+<div class="pp-card" tabindex="0" role="button" aria-label="Builder card. Activate to reveal the old pattern.">
+<div class="pp-card-inner">
+<div class="pp-face pp-front">
+<img src="https://d1yei2z3i6k35z.cloudfront.net/19053868/6abc4fae858816.77191719_builder.jpg" alt="Builder" style="width:100%;height:220px;object-fit:cover;display:block;">
+<div style="padding:24px;"><h3 style="font-size:22px;margin:0 0 8px;color:#2E2A26;">Builder</h3><p style="font-size:16px;line-height:1.6;margin:0;color:#2E2A26;">Turn a meaningful idea into something real.</p></div>
+</div>
+<div class="pp-face pp-back">
+<h3 style="font-size:20px;margin:0 0 12px;color:#FAF6EF;">The old pattern</h3>
+<p style="font-size:16px;line-height:1.65;margin:0;color:#FAF6EF;opacity:.94;">The blueprint-follower — building a life that looked solid while following someone else's plan.</p>
+</div>
+</div>
+</div>
+<div class="pp-card" tabindex="0" role="button" aria-label="Advocate card. Activate to reveal the old pattern.">
+<div class="pp-card-inner">
+<div class="pp-face pp-front">
+<img src="https://d1yei2z3i6k35z.cloudfront.net/19053868/6abc51d70638f7.99063689_advocate.jpg" alt="Advocate" style="width:100%;height:220px;object-fit:cover;object-position:top center;display:block;">
+<div style="padding:24px;"><h3 style="font-size:22px;margin:0 0 8px;color:#2E2A26;">Advocate</h3><p style="font-size:16px;line-height:1.6;margin:0;color:#2E2A26;">Give your voice to what matters.</p></div>
+</div>
+<div class="pp-face pp-back">
+<h3 style="font-size:20px;margin:0 0 12px;color:#FAF6EF;">The old pattern</h3>
+<p style="font-size:16px;line-height:1.65;margin:0;color:#FAF6EF;opacity:.94;">The people-pleaser — confusing quiet with kindness, and shrinking your voice to keep the peace.</p>
+</div>
+</div>
+</div>
+<div class="pp-card" tabindex="0" role="button" aria-label="Seeker card. Activate to reveal the old pattern.">
+<div class="pp-card-inner">
+<div class="pp-face pp-front">
+<img src="https://d1yei2z3i6k35z.cloudfront.net/19053868/6abc4fb56bec83.52497774_seeker.jpg" alt="Seeker" style="width:100%;height:220px;object-fit:cover;display:block;">
+<div style="padding:24px;"><h3 style="font-size:22px;margin:0 0 8px;color:#2E2A26;">Seeker</h3><p style="font-size:16px;line-height:1.6;margin:0;color:#2E2A26;">Follow a question deep enough to change you.</p></div>
+</div>
+<div class="pp-face pp-back">
+<h3 style="font-size:20px;margin:0 0 12px;color:#FAF6EF;">The old pattern</h3>
+<p style="font-size:16px;line-height:1.65;margin:0;color:#FAF6EF;opacity:.94;">The perpetual student — always preparing, never quite beginning.</p>
+</div>
+</div>
+</div>
+</div>
+<a href="https://www.thepracticingpurpose.com/quiz" style="display:inline-block;background:#C9A24B;color:#2E2A26;font-size:19px;font-weight:bold;padding:16px 40px;border-radius:8px;text-decoration:none;margin-top:40px;">Discover my Purpose Archetype</a>
+</div>
+<div class="pp-reveal" style="max-width:720px;margin:0 auto;padding:64px 24px;text-align:center;">
+<p style="font-size:20px;line-height:1.7;margin:0;">Most purpose advice tells you to look harder. We think that's backwards. Practicing Purpose is built on a simpler idea: you don't find your purpose and then live it — you live it, in small daily practices, until it becomes who you are. Empathy first. No hype. No guru-speak.</p>
+</div>
+<div class="pp-reveal" style="background:#B9A8CC;padding:72px 24px;text-align:center;">
+<div style="max-width:980px;margin:0 auto;display:flex;flex-wrap:wrap;gap:44px;align-items:center;justify-content:center;text-align:left;">
+<div style="flex:0 1 270px;max-width:300px;">
+<img src="https://d1yei2z3i6k35z.cloudfront.net/19053868/6abd79f7bf19f8.20201517_cover.jpg" alt="Practicing Purpose — book cover" style="width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 20px 44px rgba(46,42,38,.35);">
+</div>
+<div style="flex:1 1 320px;max-width:540px;">
+<p style="font-size:14px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#2E2A26;opacity:.75;margin:0 0 14px;">From the book &middot; Coming soon</p>
+<h2 style="font-size:38px;line-height:1.15;margin:0 0 10px;color:#2E2A26;">Practicing Purpose</h2>
+<p style="font-size:20px;font-style:italic;margin:0 0 20px;color:#2E2A26;">Not found. Not finished. Practiced.</p>
+<p style="font-size:18px;line-height:1.7;margin:0 0 18px;color:#2E2A26;">For years, Joseph Aparicio lived inside the old patterns this site names &mdash; the critic, the martyr, the blueprint-follower, the people-pleaser, the perpetual student. <em>Practicing Purpose</em> is the book that grew out of the other side: a grounded, hype-free guide to releasing the older version of yourself and practicing, in small daily ways, the person you are becoming.</p>
+<p style="font-size:15px;margin:0 0 28px;color:#2E2A26;opacity:.8;">&mdash; Joseph Aparicio, author</p>
+<a href="#pp-signup" style="display:inline-block;background:#C9A24B;color:#2E2A26;font-size:19px;font-weight:bold;padding:16px 40px;border-radius:8px;text-decoration:none;">Get the first chapter free</a>
+<p style="font-size:14px;margin:14px 0 0;color:#2E2A26;opacity:.75;">Join the list &mdash; the chapter lands in your inbox on release day.</p>
+</div>
+</div>
+</div>
+<div id="pp-signup" class="pp-reveal" style="background:#B0715A;padding:64px 24px;text-align:center;">
+<h2 style="font-size:32px;margin:0 0 12px;color:#FAF6EF;">One honest email a week.</h2>
+<p style="font-size:18px;color:#FAF6EF;opacity:.92;margin:0;">A practice, a reflection, and something worth thinking about. No spam, no fluff — unsubscribe anytime.<br>Join now and get the first chapter of <em>Practicing Purpose</em> free when it releases.</p>
+</div>
+</div>
+<style>
+.pp-card{perspective:1200px;-webkit-perspective:1200px;flex:1 1 240px;max-width:300px;cursor:pointer;}
+.pp-card:focus-visible{outline:2px solid #C9A24B;outline-offset:4px;}
+.pp-card-inner{position:relative;width:100%;transform-style:preserve-3d;-webkit-transform-style:preserve-3d;transition:transform .35s ease;}
+.pp-card:hover .pp-card-inner,.pp-card.pp-flipped .pp-card-inner{transform:rotateY(180deg);}
+.pp-face{border-radius:12px;overflow:hidden;background:#FAF6EF;backface-visibility:hidden;-webkit-backface-visibility:hidden;}
+.pp-front{position:relative;}
+.pp-front img{display:block;transition:transform .35s ease;}
+.pp-card:hover .pp-front img{transform:scale(1.06);}
+.pp-back{position:absolute;top:0;left:0;right:0;bottom:0;transform:rotateY(180deg);-webkit-transform:rotateY(180deg);background:#2E2A26;display:flex;flex-direction:column;justify-content:center;padding:28px;text-align:center;}
+.pp-reveal{opacity:0;transform:translateY(26px);transition:opacity .35s ease,transform .35s ease;}
+.pp-reveal.pp-in{opacity:1;transform:none;}
+#pp-sticky-cta{position:fixed;right:20px;bottom:20px;z-index:99999;background:#C9A24B;color:#2E2A26;font-family:'Montserrat',Helvetica,Arial,sans-serif;font-size:17px;font-weight:bold;padding:14px 26px;border-radius:999px;text-decoration:none;box-shadow:0 8px 24px rgba(0,0,0,.28);opacity:0;transform:translateY(16px);pointer-events:none;transition:opacity .3s ease,transform .3s ease;}
+#pp-sticky-cta.pp-show{opacity:1;transform:none;pointer-events:auto;}
+@media (max-width:640px){#pp-sticky-cta{left:16px;right:16px;bottom:16px;text-align:center;padding:16px 20px;font-size:18px;}}
+@media (prefers-reduced-motion:reduce){
+.pp-reveal{opacity:1!important;transform:none!important;transition:none!important;}
+.pp-card-inner,.pp-front img,#pp-sticky-cta{transition:none!important;}
+.pp-card:hover .pp-card-inner,.pp-card.pp-flipped .pp-card-inner{transform:none!important;}
+.pp-card:hover .pp-front img{transform:none!important;}
+#pp-sticky-cta{transform:none!important;}
+}
+</style>
+<a id="pp-sticky-cta" href="https://www.thepracticingpurpose.com/quiz">Find my archetype</a>
+<script>
+(function(){
+var reduce=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+var cards=document.querySelectorAll('.pp-card');
+cards.forEach(function(card){
+card.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();if(!reduce)card.classList.toggle('pp-flipped');}});
+if(!reduce){card.addEventListener('click',function(){card.classList.toggle('pp-flipped');});}
+});
+var reveals=document.querySelectorAll('.pp-reveal');
+function revealAll(){reveals.forEach(function(el){el.classList.add('pp-in');});}
+if('IntersectionObserver' in window&&!reduce){
+var io=new IntersectionObserver(function(entries){entries.forEach(function(en){if(en.isIntersecting){en.target.classList.add('pp-in');io.unobserve(en.target);}});},{threshold:0.12,rootMargin:'0px 0px -8% 0px'});
+reveals.forEach(function(el){io.observe(el);});
+setTimeout(revealAll,4000);
+}else{revealAll();}
+var sticky=document.getElementById('pp-sticky-cta');
+var hero=document.getElementById('pp-hero');
+var signup=document.getElementById('pp-signup');
+var joinBtn=document.getElementById('button-777350cd');
+var formSection=(joinBtn&&joinBtn.closest)?joinBtn.closest('section'):null;
+function inView(el){if(!el)return false;var r=el.getBoundingClientRect();var vh=window.innerHeight||document.documentElement.clientHeight;return r.top<vh&&r.bottom>0;}
+function update(){var pastHero=hero&&hero.getBoundingClientRect().bottom<0;var nearForm=inView(signup)||inView(formSection);if(sticky)sticky.classList.toggle('pp-show',!!(pastHero&&!nearForm));}
+var ticking=false;
+function onScroll(){if(ticking)return;ticking=true;requestAnimationFrame(function(){ticking=false;update();});}
+window.addEventListener('scroll',onScroll,{passive:true});
+window.addEventListener('resize',update);
+update();
+})();
+</script>
+
+<style>
+.pp-reveal{opacity:1;transform:none;}
+html.pp-js .pp-reveal{opacity:0;transform:translateY(26px);}
+html.pp-js .pp-reveal.pp-in{opacity:1;transform:none;}
+</style>
+<script>document.documentElement.classList.add('pp-js');</script>
+<style>
+/* Mobile flip smoothing — paste at the very END of the archetype Raw HTML block */
+.pp-card{touch-action:manipulation;-webkit-tap-highlight-color:transparent;}
+.pp-card-inner{will-change:transform;}
+@media (hover:none) and (pointer:coarse){
+.pp-card.pp-card:hover .pp-card-inner{transform:none;}
+.pp-card:hover .pp-front img{transform:none;}
+}
+</style>
